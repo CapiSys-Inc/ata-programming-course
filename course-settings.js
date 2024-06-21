@@ -1,9 +1,9 @@
 const courseSettings = {
   language: "en",
-  name: "ATA Python Programming Course",
+  name: "Online Python Programming Course",
   siteUrl: "https://programming-24.mooc.fi",
   githubUrl: "https://github.com/rage/programming-24",
-  subtitle: "ATA Python Programming Course",
+  subtitle: "Asia Tech Academy",
   slug: "programming-24",
   organizationName: "MOOC",
   tmcCourse: "programming-24",

@@ -28,7 +28,7 @@ const Heading = styled.div`
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 500;
   font-size: 2rem;
-  color: #c0392b;
+  color: #FF0000;
   background: white;
   padding: 0.5rem;
   margin: 1rem;
@@ -43,7 +43,7 @@ const SubHeading = styled.div`
       Roboto, 'Helvetica Neue', Arial, Noto Sans, sans-serif, 'Apple Color Emoji',
       'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
     font-weight: 500;
-    color: #c0392b;
+    color: #FF0000;
     background: white;
     padding .5rem;
     font-size: 1.4rem;
