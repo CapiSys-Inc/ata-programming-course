@@ -92,7 +92,7 @@ Please note, that exam dates and similar information in the older recordings may
     </tr>
     <tr>
       <td>Part 9 (2022)</td>
-      <td><a href="https://youtu.be/r6vV5SXpmWs">Recording</a></td>
+      <td><a href="https://youtu.be/r6vV5SXpmWs">Recording 09.11.2023</a></td>
     </tr>
     <tr>
       <td>Part 10 (2023)</td>
