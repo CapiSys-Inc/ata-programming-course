@@ -15,6 +15,18 @@ The Introduction to Programming course consists of parts 1 through 7 in the mate
 
 **NB:** It is **no longer possible** to directly apply for a right to study at the University of Helsinki through these courses. If you are interested in studying at the University of Helsinki, please have a look at the [admissions website](https://www.helsinki.fi/en/admissions-and-education).
 
+## Timetable
+
+Lectures and Exercises will expected be done once a week on a Thursday
+
+## Order of course
+
+1 part per week 
+
+Watch lecture video on youtube and follow the slides
+
+Then complete the live lesson and exercises in "URL here"
+
 ## Support channels on the course
 
 The official course support channels are available through workshop guidance on campus and Discord. The course channels in Discord are available through [this link](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc).
@@ -22,10 +34,6 @@ The official course support channels are available through workshop guidance on 
 Please see the [Support and assistance](/support-and-assistance) page for more details.
 
 Use Discord primarily for communication. You can be in contact with the course teachers by e-mail ohjelmoinnin-mooc@helsinki.fi.
-
-## Timetable
-
-The course will be open until the end of the year 2024.
 
 ## Lectures
 
